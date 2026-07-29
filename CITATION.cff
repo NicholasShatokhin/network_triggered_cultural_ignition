@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite the version-specific repository DOI and the accompanying manuscript."
+title: "Network-triggered cultural ignition as a candidate Great Filter: code and data"
+type: software
+version: "1.0.2"
+date-released: 2026-07-28
+authors:
+  - family-names: Shatokhin
+    given-names: Mykola
+    orcid: "https://orcid.org/0000-0003-0028-6208"
+    affiliation: "National University \"Kyiv Aviation Institute\""
+    email: "n.shatokhin@gmail.com"
+abstract: "Agent-based cumulative-culture model, archaeological robustness analysis, network-topology experiments and a conditional Galactic Great-Filter embedding."
+keywords:
+  - astrobiology
+  - Great Filter
+  - Fermi paradox
+  - cumulative culture
+  - cultural evolution
+  - agent-based model
+  - archaeology
+  - social networks
+license: MIT
+references:
+  - type: article
+    title: "A dataset describing the manufacturing of stone tools over 3 million years"
+    doi: "10.5334/joad.114"
+  - type: article
+    title: "3.3 million years of stone tool complexity suggests cumulative culture began during the Middle Pleistocene"
+    doi: "10.1073/pnas.2319175121"
+  - type: software
+    title: "Paige Perreault 2024 (PNAS) analysis"
+    doi: "10.5281/zenodo.11398650"

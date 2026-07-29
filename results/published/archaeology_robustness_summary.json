@@ -1,0 +1,35 @@
+{
+  "n_sequences": 64,
+  "observed_change_point_ka": 525.0,
+  "observed_delta_loglik": 18.75337895037933,
+  "permutation_replicates": 10000,
+  "permutation_p_value": 9.999000099990002e-05,
+  "date_uncertainty_change_point": {
+    "median": 500.0,
+    "q025": 325.0,
+    "q975": 575.0
+  },
+  "row_bootstrap_change_point": {
+    "median": 525.0,
+    "q025": 275.0,
+    "q975": 575.0
+  },
+  "source_cluster_bootstrap_change_point": {
+    "median": 525.0,
+    "q025": 275.0,
+    "q975": 575.0
+  },
+  "site_cluster_bootstrap_change_point": {
+    "median": 525.0,
+    "q025": 275.0,
+    "q975": 575.0
+  },
+  "leave_one_source_cp_range": [
+    325.0,
+    575.0
+  ],
+  "leave_one_site_cp_range": [
+    325.0,
+    575.0
+  ]
+}

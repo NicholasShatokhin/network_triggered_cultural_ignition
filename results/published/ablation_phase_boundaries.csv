@@ -1,0 +1,16 @@
+model,duration_years,estimated_p50,status,maximum_observed_probability
+Full model,1000,0.1066876421464384,estimated,0.72
+Full model,1500,0.06408707932407412,estimated,0.88
+Full model,2000,0.040940931656015075,estimated,0.94
+No cultural selection on cognition,1000,1.1235261036348725,above_scan,0.02
+No cultural selection on cognition,1500,0.21694582715729568,above_scan,0.18
+No cultural selection on cognition,2000,0.19311503033777472,above_scan,0.26
+No infrastructure feedback,1000,,not_reached,0.0
+No infrastructure feedback,1500,,not_reached,0.0
+No infrastructure feedback,2000,,not_reached,0.0
+No recombination,1000,,not_reached,0.0
+No recombination,1500,,not_reached,0.0
+No recombination,2000,,not_reached,0.0
+No teaching,1000,,not_reached,0.0
+No teaching,1500,,not_reached,0.0
+No teaching,2000,,not_reached,0.0

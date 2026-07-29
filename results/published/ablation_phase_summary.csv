@@ -1,0 +1,7 @@
+model,total_ignitions,total_replicates,max_ignition_probability,conditions_with_any_ignition,conditions_with_at_least_50pct
+Full model,347,600,0.94,12,8
+No contact event,1,300,0.0033333333333333335,1,0
+No cultural selection on cognition,35,600,0.26,6,0
+No infrastructure feedback,0,600,0.0,0,0
+No recombination,0,600,0.0,0,0
+No teaching,0,600,0.0,0,0

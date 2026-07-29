@@ -1,0 +1,133 @@
+\begin{thebibliography}{36}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Barab\'asi and Albert(1999)Barab\'asi \& Albert}]{barabasi1999}
+Barab\'asi, A.-L. and Albert, R. 1999, Science, 286, 509
+
+\bibitem[{Behroozi and Peeples(2015)Behroozi \& Peeples}]{behroozi2015}
+Behroozi, P.~S. and Peeples, M.~S. 2015, MNRAS, 454, 1811
+
+\bibitem[{Bryson {et~al.}(2021)Bryson, Kunimoto, Kopparapu,
+  {et~al.}}]{bryson2021}
+Bryson, S., Kunimoto, M., Kopparapu, R.~K., {et~al.} 2021, AJ, 161, 36
+
+\bibitem[{Cantor {et~al.}(2021)Cantor, Chimento, Smeele, {et~al.}}]{cantor2021}
+Cantor, M., Chimento, M., Smeele, S.~Q., {et~al.} 2021, Proc. R. Soc. B, 288,
+  20203107
+
+\bibitem[{Carroll-Nellenback {et~al.}(2019)Carroll-Nellenback, Frank, Wright,
+  \& Scharf}]{carroll2019}
+Carroll-Nellenback, J., Frank, A., Wright, J., and Scharf, C. 2019, AJ, 158,
+  117
+
+\bibitem[{Deffner {et~al.}(2024)Deffner, Fedorova, Andrews, \&
+  McElreath}]{deffner2024}
+Deffner, D., Fedorova, N., Andrews, J., and McElreath, R. 2024, PNAS, 121,
+  e2322887121
+
+\bibitem[{Derex and Boyd(2015)Derex \& Boyd}]{derex2015}
+Derex, M. and Boyd, R. 2015, Nat. Commun., 6, 8398
+
+\bibitem[{Derex {et~al.}(2018)Derex, Perreault, \& Boyd}]{derex2018}
+Derex, M., Perreault, C., and Boyd, R. 2018, Phil. Trans. R. Soc. B, 373,
+  20170062
+
+\bibitem[{Erd\H{o}s and R\'enyi(1959)Erd\H{o}s \& R\'enyi}]{erdos1959}
+Erd\H{o}s, P. and R\'enyi, A. 1959, Publ. Math. Debrecen, 6, 290
+
+\bibitem[{Fay {et~al.}(2019)Fay, De~Kleine, Walker, \& Caldwell}]{fay2019}
+Fay, N., De~Kleine, N., Walker, B., and Caldwell, C.~A. 2019, PNAS, 116, 6726
+
+\bibitem[{Gunasekaram {et~al.}(2024)}]{gunasekaram2024}
+Gunasekaram, C. {et~al.} 2024, Science, 386, 920
+
+\bibitem[{Hagberg {et~al.}(2008)Hagberg, Schult, \& Swart}]{hagberg2008}
+Hagberg, A.~A., Schult, D.~A., and Swart, P.~J. 2008, in Proceedings of the 7th
+  Python in Science Conference, 11
+
+\bibitem[{Harris {et~al.}(2020)Harris, Millman, van~der Walt,
+  {et~al.}}]{harris2020}
+Harris, C.~R., Millman, K.~J., van~der Walt, S.~J., {et~al.} 2020, Nature, 585,
+  357
+
+\bibitem[{Holland {et~al.}(1983)Holland, Laskey, \& Leinhardt}]{holland1983}
+Holland, P.~W., Laskey, K.~B., and Leinhardt, S. 1983, Soc. Networks, 5, 109
+
+\bibitem[{Kandel {et~al.}(2023)Kandel, Sommer, Kanaeva, Bolus,
+  {et~al.}}]{kandel2023}
+Kandel, A.~W., Sommer, C., Kanaeva, Z., Bolus, M., {et~al.} 2023, PLOS ONE, 18,
+  e0289513
+
+\bibitem[{Kipping(2020)}]{kipping2020}
+Kipping, D. 2020, PNAS, 117, 11995
+
+\bibitem[{Kirby and Tamariz(2022)Kirby \& Tamariz}]{kirby2022}
+Kirby, S. and Tamariz, M. 2022, Phil. Trans. R. Soc. B, 377, 20200319
+
+\bibitem[{Kolodny {et~al.}(2015)Kolodny, Creanza, \& Feldman}]{kolodny2015}
+Kolodny, O., Creanza, N., and Feldman, M.~W. 2015, PNAS, 112, E6762
+
+\bibitem[{Loeb {et~al.}(2016)Loeb, Batista, \& Sloan}]{loeb2016}
+Loeb, A., Batista, R.~A., and Sloan, D. 2016, JCAP, 08, 040
+
+\bibitem[{Mesoudi and Thornton(2018)Mesoudi \& Thornton}]{mesoudi2018}
+Mesoudi, A. and Thornton, A. 2018, Proc. R. Soc. B, 285, 20180712
+
+\bibitem[{Mills {et~al.}(2025)Mills, Macalady, Frank, \& Wright}]{mills2025}
+Mills, D.~B., Macalady, J.~L., Frank, A., and Wright, J.~T. 2025, Sci. Adv.,
+  11, eads5698
+
+\bibitem[{Montrey and Shultz(2020)Montrey \& Shultz}]{montrey2020}
+Montrey, M. and Shultz, T.~R. 2020, Proc. R. Soc. B, 287, 20200090
+
+\bibitem[{Morgan {et~al.}(2015)Morgan, Uomini, Rendell, {et~al.}}]{morgan2015}
+Morgan, T. J.~H., Uomini, N.~T., Rendell, L.~E., {et~al.} 2015, Nat. Commun.,
+  6, 6029
+
+\bibitem[{Muthukrishna {et~al.}(2018)Muthukrishna, Doebeli, Chudek, \&
+  Henrich}]{muthukrishna2018}
+Muthukrishna, M., Doebeli, M., Chudek, M., and Henrich, J. 2018, PLOS Comput.
+  Biol., 14, e1006504
+
+\bibitem[{Paige and Perreault(2023)Paige \& Perreault}]{paige2023}
+Paige, J. and Perreault, C. 2023, J. Open Archaeol. Data, 11, 12
+
+\bibitem[{Paige and Perreault(2024)Paige \& Perreault}]{paige2024}
+Paige, J. and Perreault, C. 2024, PNAS, 121, e2319175121
+
+\bibitem[{Pearce and Moutsiou(2014)Pearce \& Moutsiou}]{pearce2014}
+Pearce, E. and Moutsiou, T. 2014, J. Anthropol. Archaeol., 36, 12
+
+\bibitem[{Prokopenko {et~al.}(2026)Prokopenko, Ay, Breviario,
+  {et~al.}}]{prokopenko2026}
+Prokopenko, M., Ay, N., Breviario, A., {et~al.} 2026, arXiv, 2605.04498, 1
+
+\bibitem[{Schleicher and Bovino(2023)Schleicher \& Bovino}]{schleicher2023}
+Schleicher, D. R.~G. and Bovino, S. 2023, Int. J. Astrobiol., 22, 1
+
+\bibitem[{Shkurko(2024)}]{shkurko2024}
+Shkurko, A.~V. 2024, Int. J. Astrobiol., 23, e13
+
+\bibitem[{van Leeuwen {et~al.}(2024)van Leeuwen, DeTroy, Haun, Call,
+  {et~al.}}]{vanleeuwen2024}
+van Leeuwen, E. J.~C., DeTroy, S.~E., Haun, D. B.~M., Call, J., {et~al.} 2024,
+  Nat. Hum. Behav., 8, 891
+
+\bibitem[{Virtanen {et~al.}(2020)Virtanen, Gommers, Oliphant,
+  {et~al.}}]{virtanen2020}
+Virtanen, P., Gommers, R., Oliphant, T.~E., {et~al.} 2020, Nat. Methods, 17,
+  261
+
+\bibitem[{Walker and Fay(2026)Walker \& Fay}]{walker2026}
+Walker, B. and Fay, N. 2026, Sci. Rep., 16, 10090
+
+\bibitem[{Watts and Strogatz(1998)Watts \& Strogatz}]{watts1998}
+Watts, D.~J. and Strogatz, S.~H. 1998, Nature, 393, 440
+
+\bibitem[{Winters and Charbonneau(2026)Winters \& Charbonneau}]{winters2026}
+Winters, J. and Charbonneau, M. 2026, Phil. Trans. R. Soc. B, 381, 20250255
+
+\bibitem[{Wright {et~al.}(2018)Wright, Kanodia, \& Lubar}]{wright2018}
+Wright, J.~T., Kanodia, S., and Lubar, E.~G. 2018, AJ, 156, 260
+
+\end{thebibliography}

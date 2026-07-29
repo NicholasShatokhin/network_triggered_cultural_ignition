@@ -1,0 +1,15 @@
+{
+  "glm_intercept": -4.0443860144590555,
+  "glm_contact_coefficient": 11.738956390049061,
+  "glm_duration_scaled_coefficient": 1.4169315816923702,
+  "glm_contact_duration_interaction": 31.292794550564707,
+  "ABM_p50_1500_years": 0.06105850622701177,
+  "conditional_mean_eligible_exposure_given_complex_life_Gyr": 4.0,
+  "eligible_exposure_status": "illustrative conditional scenario parameter, not empirically inferred",
+  "eligible_exposure_sensitivity_Gyr": [
+    1.0,
+    4.0,
+    10.0
+  ],
+  "fiducial_constraint_fcomplex_times_opportunity_rate_50pct_first_at_pignite_0.5": 3.4657359027997266e-11
+}

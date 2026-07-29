@@ -1,0 +1,24 @@
+{
+  "title": "Network-triggered cultural ignition as a candidate Great Filter: code and data",
+  "upload_type": "software",
+  "description": "Portable code, frozen simulation ensembles, archaeological robustness analyses, network-topology experiments and conditional Galactic population calculations accompanying the manuscript.",
+  "creators": [
+    {
+      "name": "Shatokhin, Mykola",
+      "affiliation": "National University \"Kyiv Aviation Institute\"",
+      "orcid": "0000-0003-0028-6208"
+    }
+  ],
+  "keywords": [
+    "astrobiology",
+    "Great Filter",
+    "Fermi paradox",
+    "cumulative culture",
+    "cultural evolution",
+    "agent-based model",
+    "archaeology",
+    "social networks"
+  ],
+  "access_right": "open",
+  "version": "1.0.2"
+}

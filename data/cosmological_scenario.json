@@ -1,0 +1,9 @@
+{
+  "exposure_sensitivity_gyr": [
+    1.0,
+    4.0,
+    10.0
+  ],
+  "interpretation": "Illustrative mean duration for which a rocky habitable-zone planet is eligible for cultural ignition, conditional on that planet already having reached complex animal-grade life. It is a scenario parameter, not an empirical estimate inferred by this study.",
+  "fiducial_conditional_mean_eligible_exposure_gyr": 4.0
+}
